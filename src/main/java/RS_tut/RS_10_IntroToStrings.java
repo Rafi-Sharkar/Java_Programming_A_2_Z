@@ -1,6 +1,6 @@
 package RS_tut;
 
-// String is a class. we can
+// String is a class. we can change it after declaring. String is immutable.
 
 /*
 there have 4 type of print.
